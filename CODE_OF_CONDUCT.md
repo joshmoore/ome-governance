@@ -18,7 +18,7 @@ Conduct.
 
 OME reserves the right to update this code of conduct at any time. When updates
 do occur (as [pull requests](https://github.com/ome/.github/pulls) against
-[https://github.com/ome/governance/blob/main/CODE\_OF\_CONDUCT.md](https://github.com/ome/governance/blob/main/CODE_OF_CONDUCT.md)),
+[https://github.com/ome/governance/blob/main/CODE_OF_CONDUCT.md](https://github.com/ome/governance/blob/main/CODE_OF_CONDUCT.md)),
 a message will be posted to the [image.sc forum](https://forum.image.sc/)
 to notify OME developers and users.
 
@@ -77,19 +77,19 @@ times.
 
 Harmful language towards a person’s:
 
-* Background  
-* Family  
-* Gender Identity or Expression  
-* Sexual Orientation  
-* Race/Ethnicity  
-* Age  
-* Native Language  
-* Abilities  
-* National Origin  
-* Location  
-* Religion or culture / cultural beliefs  
-* Political affiliation and/or views  
-* Other personal attributes
+- Background
+- Family
+- Gender Identity or Expression
+- Sexual Orientation
+- Race/Ethnicity
+- Age
+- Native Language
+- Abilities
+- National Origin
+- Location
+- Religion or culture / cultural beliefs
+- Political affiliation and/or views
+- Other personal attributes
 
 is not acceptable.
 
@@ -97,13 +97,13 @@ is not acceptable.
 
 If you see a Code of Conduct violation, follow these steps:
 
-* Let the person know that what they did is not appropriate and ask them to
+- Let the person know that what they did is not appropriate and ask them to
   stop and/or edit their message(s).
-* That person should immediately stop the behavior and correct the issue.
-* If this doesn’t happen, or if you’re uncomfortable speaking up, email
+- That person should immediately stop the behavior and correct the issue.
+- If this doesn’t happen, or if you’re uncomfortable speaking up, email
   codeofconduct@openmicroscopy.org. If your issue is with a member of the OME
   Management Group, contact any other member directly.
-* When reporting, please include any relevant details, links, screenshots,
+- When reporting, please include any relevant details, links, screenshots,
   context, or other information that may be used to better understand and
   resolve the situation.
 
@@ -137,7 +137,7 @@ Foundation [Code of Conduct](https://www.python.org/psf/conduct/) under a
 License](https://creativecommons.org/licenses/by-sa/3.0/), with additional text
 from:
 
-* [Citizen Code of Conduct](http://citizencodeofconduct.org/), licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).  
-* [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct), licensed under a [Creative Commons Attribution 4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md).  
-* [Django Project Code of Conduct](https://www.djangoproject.com/conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).  
-* [LGBTQ in Tech Slack Code of Conduct](https://lgbtq.technology/coc.html), licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/).
+- Citizen Code of Conduct formerly at citizencodeofconduct.org, licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+- [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct), licensed under a [Creative Commons Attribution 4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md).
+- [Django Project Code of Conduct](https://www.djangoproject.com/conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+- [LGBTQ in Tech Slack Code of Conduct](https://lgbtq.technology/coc.html), licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/).

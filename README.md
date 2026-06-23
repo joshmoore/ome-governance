@@ -13,7 +13,7 @@ record of governance changes.
 
 ## Core OME Governance
 
-- [Governance Charter](omg/charter.md)
+- [Governance Charter](charter.md)
 - [OME Management Group](omg/roster.md)
 
 ## Community Policies
