@@ -139,18 +139,15 @@ different levels of the ecosystem.
 
 These documents include:
 
-- The Agreement
-- The OMG Charter
-- The OMG Roster
-- The Project Roster
-- ORP Charters
-- ORP Rosters
-- Project-specific governance documents
-- Operational policy documents maintained by individual governance bodies
+- The OMG Charter (this document)
+- [The OME Participation Agreement](agreements/participation-agreement.md)
+- [The OMG Roster](omg/roster.md)
+- [The Project Roster](projects.md)
+- [ORP Charters and Rosters](./orp)
 
 OME governance is organized as a layered structure:
 
-- The Agreement defines ecosystem-wide participation expectations.
+- The Participation Agreement defines ecosystem-wide participation expectations.
 - The OMG Charter and OMG Roster define ecosystem-level coordination and oversight.
 - The Project Roster defines recognized OME Registered Projects.
 - ORP Charters and Rosters define the governance and participation structures of individual projects.
