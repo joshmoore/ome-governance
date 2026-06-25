@@ -1,3 +1,9 @@
+---
+title: Participation Agreement
+permalink: /governance/participation-agreement/
+description: Collaborative framework for OME contributors (e.g., participation expectations, code of conduct).
+---
+
 # **OME Participation Agreement**
 
 ## **Introduction**

@@ -1,3 +1,9 @@
+---
+title: Governance Charter
+permalink: governance/charter/
+description: Defines the high-level mandate, responsibilities, and authority of the OME Management Group (OMG)
+---
+
 # **OME Governance Charter**
 
 ## **1. Purpose and Scope**

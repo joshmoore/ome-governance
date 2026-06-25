@@ -1,3 +1,8 @@
+---
+title: Code of Conduct
+permalink: /governance/code-of-conduct/
+---
+
 # OME Code of Conduct
 
 Last updated: June 2026

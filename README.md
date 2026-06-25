@@ -13,18 +13,19 @@ record of governance changes.
 
 ## Core OME Governance
 
-- [Governance Charter](charter.md)
-- [OME Management Group](omg/roster.md)
+- [Governance Charter](charter/)
+- [Management Group](management-group/)
 
 ## Community Policies
 
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Participation Agreement](agreements/participation-agreement.md)
+- [Code of Conduct](code-of-conduct/)
+- [Participation Agreement](participation-agreement/)
 
 ## OME Resource Projects (ORPs) -- TODO
 
-- [ORP Charter Template](orp/charter-template.md)
-- [Active ORPs](orp/README.md)
+- [ORP Charter Template](orp/templates/charter/)
+- [ORP Roster Template](orp/templates/roster/)
+- [Active ORPs](projects/)
 - Proposed ORPs
 - Retired ORPs
 
@@ -32,3 +33,5 @@ record of governance changes.
 
 Governance changes are proposed through pull requests and reviewed by the
 appropriate governance body.
+
+<img src="diagram.svg"/>

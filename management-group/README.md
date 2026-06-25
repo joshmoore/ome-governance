@@ -1,3 +1,9 @@
+---
+title: Management Group
+permalink: /governance/management-group/
+description: Lists the current members of the OMG.
+---
+
 # **OME Management Group — Roster**
 
 ## **1. Overview**
