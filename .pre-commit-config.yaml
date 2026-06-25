@@ -11,9 +11,9 @@ repos:
       - id: check-yaml
       - id: check-added-large-files
 
-  - repo: https://github.com/tcort/markdown-link-check
-    rev: v3.12.2
+  - repo: https://github.com/lycheeverse/lychee
+    rev: lychee-v0.18.1
     hooks:
-      - id: markdown-link-check
+      - id: lychee
         args:
-          - -q
+          - --offline
