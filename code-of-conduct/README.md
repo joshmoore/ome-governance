@@ -1,6 +1,7 @@
 ---
 title: Code of Conduct
 permalink: /governance/code-of-conduct/
+description: OME is committed to providing an inclusive, accessible and positive community
 ---
 
 # OME Code of Conduct
