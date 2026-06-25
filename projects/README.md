@@ -28,6 +28,7 @@ Registered Projects as well as the process for modifying this document.
 ## **3. Roles and Responsibilities**
 
 Each Registered Project shall:
+
 - Maintain a charter describing its scope and governance.
 - Maintain a roster identifying its maintainers and other formal roles.
 - Operate in accordance with the OME governance framework.
@@ -47,10 +48,10 @@ evolution of the OME ecosystem. Changes to the list of Registered Projects
 shall be made in accordance with the decision-making procedures defined by the
 OMG Charter.
 
-| Version history |                         |
-| :-------------- | :---------------------- |
-| Date            | Description             |
-| April 2026      | Original proposal       |
-| June 2026       | Update after review     |
-|                 |                         |
-|                 |                         |
+| Version history |                     |
+| :-------------- | :------------------ |
+| Date            | Description         |
+| April 2026      | Original proposal   |
+| June 2026       | Update after review |
+|                 |                     |
+|                 |                     |

@@ -25,14 +25,14 @@ evangelism, are essential for the project's purpose and direction.
 
 Contributors are community members who engage directly with the project in concrete ways, such as:
 
-* Proposing, discussing, or reviewing a change to the code, documentation, or specification via a pull request.  
-* Reporting issues through public channels.  
-* Assisting with documentation or project infrastructure.  
-* Supporting new users.
+- Proposing, discussing, or reviewing a change to the code, documentation, or specification via a pull request.
+- Reporting issues through public channels.
+- Assisting with documentation or project infrastructure.
+- Supporting new users.
 
 All community members are encouraged to contribute. Contributions should be
 made in compliance with the OME Project's
-[Code of Conduct](https://github.com/ome/governance/blob/master/CODE_OF_CONDUCT.md).
+[Code of Conduct](https://github.com/ome/governance/blob/master/code-of-conduct/README.md).
 
 ### **Project Steering Committee (PSC)**
 
@@ -40,20 +40,20 @@ The Project Steering Committee (PSC) serves as the governing and administrative
 body for the individual Registered Project. It is equivalent to the Project
 Management Committee (PMC) in an Apache-governed project.
 
-* Function: The PSC have administrative rights and make decisions, such as
+- Function: The PSC have administrative rights and make decisions, such as
   accepting or rejecting pull requests, and managing administrative actions
   within the project's repositories (e.g. adding/removing members). A group of
-  one is acceptable for small projects.  
-* Authority: The PSC is self-governing and its membership is not overseen by
+  one is acceptable for small projects.
+- Authority: The PSC is self-governing and its membership is not overseen by
   the OME Management Group (OMG). The membership of this group, its processes,
   meeting minutes and any other material should be clearly findable by the
-  community.  
-* Membership is Merit-Based: Any contributor is eligible to join the PSC.  
-  * Nomination: Existing PSC members can nominate new members. Nominations must
+  community.
+- Membership is Merit-Based: Any contributor is eligible to join the PSC.
+  - Nomination: Existing PSC members can nominate new members. Nominations must
     be based on clear evidence of sustained, quality contribution to the
     project. Approval is subject to vote by the existing PSC (ideally
-    consensus, but at minimum majority approval).  
-  * Removal: PSC members who become inactive can and should be removed via a
+    consensus, but at minimum majority approval).
+  - Removal: PSC members who become inactive can and should be removed via a
     majority vote of the existing PSC.
 
 ### **PSC Chair**
@@ -79,13 +79,13 @@ falling back on a majority vote of the PSC.
 Lazy Consensus is used for most day-to-day decisions, allowing the majority of
 contributions to proceed efficiently.
 
-* Minor Documentation Changes (e.g. typo fixes): Require approval by a Core
+- Minor Documentation Changes (e.g. typo fixes): Require approval by a Core
   Developer and no disagreement or requested changes from any Core Developer
-  within a reasonable time (e.g. one working day).  
-* Code Changes and Major Documentation Changes: Require agreement by one Core
+  within a reasonable time (e.g. one working day).
+- Code Changes and Major Documentation Changes: Require agreement by one Core
   Developer and no disagreement or requested changes from any Core Developer
-  within a reasonable time (e.g. a few working days).  
-* Objections: If a Core Developer raises an objection to a proposal under lazy
+  within a reasonable time (e.g. a few working days).
+- Objections: If a Core Developer raises an objection to a proposal under lazy
   consensus, the proposal is escalated to the full group for a
   consensus-seeking discussion or a majority vote.
 

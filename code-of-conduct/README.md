@@ -22,8 +22,8 @@ Conduct.
 ## Updates to this Code of Conduct
 
 OME reserves the right to update this code of conduct at any time. When updates
-do occur (as [pull requests](https://github.com/ome/.github/pulls) against
-[https://github.com/ome/governance/blob/main/CODE_OF_CONDUCT.md](https://github.com/ome/governance/blob/main/CODE_OF_CONDUCT.md)),
+do occur (as [pull requests](https://github.com/ome/governance/pulls) against
+<https://github.com/ome/governance/blob/main/code-of-conduct/README.md>,
 a message will be posted to the [image.sc forum](https://forum.image.sc/)
 to notify OME developers and users.
 
