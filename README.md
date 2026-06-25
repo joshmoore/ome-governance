@@ -21,10 +21,8 @@ record of governance changes.
 - [Code of Conduct](code-of-conduct/)
 - [Participation Agreement](participation-agreement/)
 
-## OME Resource Projects (ORPs) -- TODO
+## OME Registered Projects (ORPs)
 
-- [ORP Charter Template](orp/templates/charter/)
-- [ORP Roster Template](orp/templates/roster/)
 - [Active ORPs](projects/)
 - Proposed ORPs
 - Retired ORPs
@@ -33,5 +31,8 @@ record of governance changes.
 
 Governance changes are proposed through pull requests and reviewed by the
 appropriate governance body.
+
+- [ORP Charter Template](orp/templates/charter/)
+- [ORP Roster Template](orp/templates/roster/)
 
 <img src="diagram.svg"/>
