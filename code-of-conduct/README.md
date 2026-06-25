@@ -130,7 +130,7 @@ happy to assist where they can, please refrain from contacting OME staff on
 personal emails or messaging OME employees with direct questions. If you have a
 question about using OME’s work, understanding OME’s tools or directions, or
 just want to connect, please use a public forum like
-[image.sc](http://image.sc). If you are interested in receiving a letter of
+[image.sc](https://forum.image.sc/). If you are interested in receiving a letter of
 support for your own projects, please contact
 [LoS-requests@openmicroscopy.org](mailto:LoS-requests@openmicroscopy.org) with
 the details of your project.
@@ -138,12 +138,12 @@ the details of your project.
 ## License and Attribution
 
 This Code of Conduct was forked from the policy from the Python Software
-Foundation [Code of Conduct](https://www.python.org/psf/conduct/) under a
+Foundation [Code of Conduct](https://policies.python.org/python.org/code-of-conduct/) under a
 [Creative Commons Attribution-ShareAlike 3.0 Unported
 License](https://creativecommons.org/licenses/by-sa/3.0/), with additional text
 from:
 
-- Citizen Code of Conduct formerly at citizencodeofconduct.org, licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-- [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct), licensed under a [Creative Commons Attribution 4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md).
-- [Django Project Code of Conduct](https://www.djangoproject.com/conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+- Citizen Code of Conduct formerly at citizencodeofconduct.org, licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
+- [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct/), licensed under a [Creative Commons Attribution 4.0 License](https://github.com/EthicalSource/contributor_covenant/blob/release/LICENSE.md).
+- [Django Project Code of Conduct](https://www.djangoproject.com/conduct/), licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
 - [LGBTQ in Tech Slack Code of Conduct](https://lgbtq.technology/coc.html), licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/).
