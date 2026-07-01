@@ -4,7 +4,7 @@ permalink: /governance/projects/
 description: Lists the current Register Projects (ORPs)
 ---
 
-# OME Registered Projects (ORP)
+# **OME Registered Projects (ORP)**
 
 ## **1. Overview**
 

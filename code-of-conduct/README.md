@@ -4,7 +4,7 @@ permalink: /governance/code-of-conduct/
 description: OME is committed to providing an inclusive, accessible and positive community
 ---
 
-# OME Code of Conduct
+# **OME Code of Conduct**
 
 Last updated: June 2026
 
