@@ -1,4 +1,4 @@
-# Charter for an OME Registered Project (ORP)
+# **Charter for an OME Registered Project (ORP)**
 
 ## **Overview**
 
