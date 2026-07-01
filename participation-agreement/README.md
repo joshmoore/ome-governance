@@ -117,7 +117,7 @@ previously recorded signatures.
 |      |                        |                   |             |
 |      |                        |                   |             |
 
-## **7. Evolution of the Agreement**
+## **8. Evolution of the Agreement**
 
 7.1. This document is expected to evolve alongside the OME governance model.
 
